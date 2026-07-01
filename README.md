@@ -1,134 +1,124 @@
-Here’s a structured **directory overview** of concepts and terms related to **sound, resonance, sound harassment, and acoustic violence**. This list is organized by thematic categories for clarity and depth.
+# Sound, Resonance & Acoustic Violence: A Comprehensive Taxonomy v2
+
+[![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/your-org/sound-acoustic-violence-taxonomy/releases)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> An open, interdisciplinary resource mapping the physical, psychological, military, legal, and cultural dimensions of sound — with a special focus on sound harassment, acoustic violence, and their intersections with health and human rights.
 
 ---
 
-## **1. Sound Fundamentals**
-**Core concepts of sound as a physical and perceptual phenomenon.**
+## Overview
 
-- **Acoustics**: The science of sound, its production, transmission, and effects.
-- **Frequency**: The number of vibrations per second (measured in Hz), determining pitch.
-- **Amplitude**: The magnitude of sound waves, determining loudness (measured in decibels, dB).
-- **Wavelength**: The distance between successive crests of a sound wave.
-- **Resonance**: The reinforcement or prolongation of sound by reflection from a surface or by the synchronous vibration of a neighboring object.
-- **Harmonics**: Integer multiples of a fundamental frequency, creating the timbre of a sound.
-- **Overtones**: Frequencies higher than the fundamental frequency in a sound.
-- **Standing Waves**: Waves that remain in a constant position, created by interference between two waves of the same frequency traveling in opposite directions.
-- **Beat Frequency**: The difference in frequency between two sounds, creating a pulsating effect.
-- **Doppler Effect**: The change in frequency of a wave in relation to an observer moving relative to the wave source.
+This taxonomy provides a **structured, evidence-grounded glossary** of over 150 terms covering:
 
----
+- Sound physics and psychoacoustics
+- Resonance and structural vibration
+- Sonic weapons, directed energy devices, and historical misuse of sound
+- Health impacts of environmental and occupational noise
+- Legal and ethical frameworks
+- Emerging experimental concepts (quantum acoustics, neuroacoustics, sonogenetics)
 
-## **2. Psychoacoustics & Perception**
-**How humans perceive and interpret sound.**
+The resource is designed for researchers, journalists, legal professionals, policy makers, healthcare workers, acousticians, and anyone seeking a reliable, nuanced vocabulary to discuss **sound as a tool of power, protest, and harm**.
 
-- **Psychoacoustics**: The study of the perception of sound.
-- **Loudness**: Subjective perception of sound intensity (related to amplitude and frequency).
-- **Pitch**: The perceived highness or lowness of a sound (related to frequency).
-- **Timbre**: The quality or color of a sound, determined by its harmonic content.
-- **Masking**: The process by which the threshold of audibility for one sound is raised by the presence of another sound.
-- **Binaural Beats**: Auditory illusions created when two slightly different frequencies are played separately in each ear.
-- **Spatial Audio**: Techniques to create a 3D sound experience, often using head-related transfer functions (HRTF).
-- **Phon**: A unit of loudness level for pure tones.
-- **Sone**: A unit of perceived loudness.
+**Why v2?**  
+The original directory (v1) was a flat list of terms. Version 2:
+- Adds 40+ new entries, including entire health, vibroacoustic, and legal categories
+- Clearly separates **evidence-based** effects from **pseudoscientific** claims
+- Integrates exposure limits, dose–response, and environmental justice perspectives
+- Cross-references related concepts for deeper navigation
 
 ---
 
-## **3. Resonance & Vibration**
-**Phenomena where sound interacts with objects, spaces, or systems.**
+## Features
 
-- **Sympathetic Resonance**: When a passive string or resonator vibrates in response to sound waves from another vibrating object.
-- **Helmholtz Resonance**: The phenomenon of air resonance in a cavity, such as in a bottle or a room.
-- **Room Modes**: Standing waves in a room, affecting sound quality and acoustics.
-- **Structural Resonance**: When a structure (e.g., a bridge or building) vibrates at its natural frequency due to external forces (e.g., wind or sound).
-- **Cymatics**: The study of visible sound and vibration, often visualized using sand or liquid on a metal plate.
-- **Resonant Frequency**: The natural frequency at which an object vibrates most easily.
-- **Damping**: The reduction of amplitude of oscillations in a resonant system.
-
----
-## **4. Sound as a Weapon or Tool of Harassment**
-**Intentional use of sound to cause harm, discomfort, or control.**
-
-- **Acoustic Violence**: The deliberate use of sound to intimidate, harm, or control individuals or groups.
-- **Sonic Weapons**: Devices that use sound to disable, disorient, or harm (e.g., Long Range Acoustic Devices, LRADs).
-- **Infrasonic Weapons**: Weapons using low-frequency sound (below 20 Hz) to cause physical discomfort or psychological effects.
-- **Ultrasonic Weapons**: Weapons using high-frequency sound (above 20 kHz) for crowd control or targeted effects.
-- **Sound Harassment**: The use of sound (e.g., loud music, white noise, or specific frequencies) to harass, annoy, or psychologically manipulate individuals.
-- **Noise Pollution**: Excessive or harmful levels of noise, often used as a form of environmental harassment.
-- **Psychological Acoustics**: The use of sound to induce stress, anxiety, or sleep deprivation.
-- **Acoustic Surveillance**: The use of sound-based technologies (e.g., ultrasonic sensors) to monitor or track individuals.
-- **Sonic Boom**: A loud, explosive noise caused by the shock waves from an object traveling faster than the speed of sound.
-- **Tinnitus Induction**: The deliberate exposure to loud or specific frequencies to cause ringing in the ears (tinnitus).
+| Feature | Description |
+|--------|-------------|
+| **11 Thematic Categories** | From Sound Fundamentals to Emerging Concepts, each category groups related terms and defines them concisely. |
+| **Expanded Public Health Lens** | New category: *Environmental & Occupational Noise – Health and Social Impact*. Covers NIHL, vibroacoustic disease, low-frequency noise syndrome, cardiovascular outcomes, and environmental injustice. |
+| **Weaponisation & Harassment Depth** | Merges and expands weapon, harassment, and torture terms. Includes historical contexts (Jericho sirens, Havana Syndrome), LRAD specifications, and misuse of consumer tech. |
+| **Evidence Tagging** | Entries like “fear frequency” and “subliminal messaging” are marked with scientific consensus level to prevent the spread of urban legend. |
+| **Legal & Human Rights Integration** | Section now covers UN Convention Against Torture, ECHR Article 8, OSHA/NIOSH exposure limits, and proportionality under IHL. |
+| **Interdisciplinary Cross-Linking** | See the same phenomenon (e.g., infrasound) through physics, health, weapon, and cultural lenses. A global “Connections” section maps these relationships. |
+| **Ready for Contribution** | The taxonomy is a single markdown file (`taxonomy.md`) with a clear schema, making it easy to extend, translate, or convert to a database. |
+| **Open License** | CC BY-SA 4.0 – you are free to share and adapt with attribution. |
 
 ---
-## **5. Sound in Warfare & Military Applications**
-**Historical and modern uses of sound in conflict.**
 
-- **Acoustic Warfare**: The use of sound as a weapon in military or police operations.
-- **LRAD (Long Range Acoustic Device)**: A directed sound weapon used for crowd control, emitting focused, high-intensity sound.
-- **Sonic Cannon**: A device that emits loud, low-frequency sound to disperse crowds or disorient individuals.
-- **Infrasonic Warfare**: The use of infrasound (below 20 Hz) to cause nausea, fear, or physical pain.
-- **Ultrasonic Crowd Control**: The use of high-frequency sound to deter or disperse crowds.
-- **Acoustic Mines**: Explosive devices triggered by sound.
-- **Sound Masking**: The use of ambient sound to reduce the intelligibility of speech, often used in secure facilities.
-- **White Noise Machines**: Devices that emit a consistent, broad-spectrum sound to mask other noises (can be used for harassment or privacy).
+## Documentation Structure
 
----
-## **6. Sound in Psychology & Manipulation**
-**How sound can influence the mind and behavior.**
-
-- **Subliminal Messaging**: The use of audio messages below the threshold of conscious perception to influence behavior.
-- **Binaural Beats for Mind Control**: The use of binaural beats to alter brainwave states (e.g., inducing relaxation or focus).
-- **Sound-Based Brainwave Entrainment**: Techniques using rhythmic sound to synchronize brainwaves to specific frequencies (e.g., alpha, theta, delta).
-- **Acoustic Hypnosis**: The use of sound to induce a trance-like state.
-- **Fear Frequencies**: Specific frequencies (e.g., 18.98 Hz) rumored to induce fear or anxiety (often debunked but culturally persistent).
-- **Suggestibility**: The degree to which an individual is influenced by sound-based suggestions or commands.
-- **Audio Stroboscopic Effect**: The use of rhythmic sound and light to induce altered states of consciousness.
+```
+/
+├── README.md                   ← this file
+├── taxonomy.md                 ← the full v2 taxonomy (11 categories, ~160 terms)
+├── CONTRIBUTING.md             ← guidelines for adding terms, references, translations
+├── roadmap.md                  ← future plans, detailed feature requests
+└── resources/
+    ├── case-studies/           ← deep dives into historical and legal cases
+    └── references/             ← bibliography and scientific source list
+```
 
 ---
-## **7. Sound in Culture & Symbolism**
-**Cultural, spiritual, and symbolic meanings of sound.**
 
-- **Sacred Sound**: The use of sound in religious or spiritual practices (e.g., chanting, mantras, or singing bowls).
-- **Sound Healing**: The use of specific frequencies or instruments (e.g., Tibetan singing bowls) for therapeutic purposes.
-- **Cymatics in Art**: The visualization of sound through patterns in sand or liquid.
-- **Soundscapes**: The acoustic environment as perceived by humans, often used in ecology or urban planning.
-- **Sound Art**: Artistic expressions using sound as the primary medium.
-- **Sonic Branding**: The use of sound (e.g., jingles or logos) to create brand identity.
-- **Sound Symbolism**: The association of sounds with meanings or emotions (e.g., onomatopoeia).
+## Quick Start
+
+1. **Read the taxonomy**: open `taxonomy.md` – it’s a human-readable glossary.
+2. **Search for a term**: Use GitHub’s file search or `grep` on your local clone.
+3. **Use as a reference**: Each entry includes a definition, cross-links to related terms, and often a note on scientific confidence.
+4. **Contribute**: See `CONTRIBUTING.md` if you’d like to add a missing concept, correct an error, or suggest a new category.
 
 ---
-## **8. Sound in Technology & Engineering**
-**Technological applications and engineering principles related to sound.**
 
-- **Active Noise Cancellation (ANC)**: Technology that reduces unwanted ambient sounds by emitting sound waves that cancel out the original sound.
-- **Soundproofing**: Materials and techniques to reduce sound transmission.
-- **Acoustic Engineering**: The design of spaces or objects to control sound (e.g., concert halls, recording studios).
-- **Sonar**: Sound Navigation and Ranging, using sound waves to detect objects underwater.
-- **Ultrasound**: High-frequency sound waves used in medical imaging, cleaning, or industrial applications.
-- **Hypersound**: Directed audio technology that uses ultrasonic waves to create highly localized sound fields.
-- **Parametric Speakers**: Devices that emit highly directional sound using ultrasound.
-- **Acoustic Metamaterials**: Engineered materials designed to manipulate sound waves in unusual ways (e.g., cloaking or focusing sound).
+## Roadmap
+
+We’re actively developing v2.x with the following enhancements:
+
+### 📚 Next Minor Releases (v2.1 – v2.3)
+- [ ] **Citation database** – link each term to at least one peer-reviewed source (ISO, WHO, Journal of the Acoustical Society of America, etc.).
+- [ ] **Case study snapshots** – embed mini case files for events like Havana Syndrome, LRAD use at protests, low‑frequency hum complaints.
+- [ ] **Glossary aliases** – support multiple language synonyms and common misspellings.
+- [ ] **Improved “Connections” mind map** – auto-generated from taxonomy cross-links (graphviz / Mermaid).
+
+### 🌐 Community & Web (v2.5)
+- [ ] **Interactive web explorer** – filter by category, frequency range, health impact, legal regime.
+- [ ] **Frequency spectrum visualisation** – overlay weapon, perception, and health effects on a 0‑Hz to >20‑kHz scale.
+- [ ] **API endpoint** – serve taxonomy as JSON for third-party apps and dashboards.
+
+### 🌍 Translations & Accessibility (v3.0)
+- [ ] **Translations** to Spanish, French, Arabic, Chinese – with glossary validation by domain experts.
+- [ ] **Simplified “Quick Guide”** for non‑specialist audiences (journalists, advocacy groups).
+- [ ] **Audio examples** – short, safe samples illustrating terms like “beat frequency”, “Shepard tone”, or “infrasonic hum”.
+
+### 🔬 Research & Policy (ongoing)
+- [ ] **Living systematic review** – automated monitoring of new literature on acoustic weapons and low‑frequency health effects.
+- [ ] **Model legislation comparison** – track noise ordinances and sonic weapon regulations across jurisdictions.
+- [ ] **Havana Syndrome reference hub** – curated, updated timeline of scientific and government reports.
 
 ---
-## **9. Legal & Ethical Considerations**
-**Laws, regulations, and ethical debates around sound use.**
 
-- **Noise Ordinances**: Local laws regulating acceptable noise levels in public and private spaces.
-- **Acoustic Privacy**: The right to be free from unwanted sound intrusion (e.g., in homes or workplaces).
-- **Sonic Torture**: The use of sound as a form of torture, prohibited under international law (e.g., Geneva Conventions).
-- **Workplace Sound Regulations**: Laws governing exposure to loud noises in occupational settings (e.g., OSHA standards).
-- **Copyright in Sound**: Legal protections for original sound recordings and compositions.
-- **Ethics of Sonic Weapons**: Debates about the morality of using sound as a weapon or tool of control.
+## Contributing
+
+We welcome contributions that:
+- Add missing terms with clear definitions and reliable references
+- Correct inaccuracies or outdated science
+- Improve cross-references between categories
+- Translate the taxonomy to new languages
+
+Please see `CONTRIBUTING.md` for the contribution workflow, style guide, and how to submit a pull request. By contributing, you agree to license your work under CC BY-SA 4.0.
 
 ---
-## **10. Emerging & Experimental Concepts**
-**Cutting-edge or speculative ideas related to sound.**
 
-- **Acoustic Levitation**: The use of sound waves to levitate small objects.
-- **Haptic Sound**: Technology that allows users to "feel" sound through vibrations.
-- **Bioacoustics**: The study of sound production and reception in animals.
-- **Sound from Light (Photoacoustic Effect)**: The generation of sound through the absorption of light (e.g., in photoacoustic imaging).
-- **Quantum Acoustics**: The study of sound at the quantum level, exploring phonons (quantum units of sound).
-- **Neuroacoustics**: The study of how the brain processes sound.
-- **Acoustic Holograms**: The use of sound waves to create 3D holographic images.
+## License
 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  
+You are free to share and adapt for any purpose, even commercially, as long as you give appropriate credit and distribute your contributions under the same license.
+
+---
+
+## Acknowledgements
+
+This taxonomy was originally seeded by a community discussion on sound harassment and acoustic violence. v2 was shaped by a thorough review incorporating public health, military history, and legal standards. Special thanks to the open‑source acoustic research and human rights communities who continue to document the weaponisation of sound.
+
+---
+
+*If you have ideas, spotted an error, or want to help build the roadmap, open an issue or start a discussion. Let’s make sound a topic of informed, safe conversation.*
